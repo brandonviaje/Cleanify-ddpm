@@ -32,4 +32,8 @@ For this project, I will be using the **CIFAR-10** dataset to train the DDPM.
 - **Widely used benchmark**: Many generative models, including diffusion models and GANs, use CIFAR-10 for comparison allowing easier evaluation of results.
 - **Simple yet diverse**: The dataset includes a variety of objects, providing enough diversity for a generative model to learn meaningful features without being overly complex.
 
-Using CIFAR-10 makes it easier to focus on getting the core DDPM implementation correct before scaling up to more complex datasets (CelebA,ImageNet).
+Using CIFAR-10 makes it easier to focus on getting the core DDPM implementation correct before scaling up to more complex datasets (CelebA, ImageNet).
+
+### Citation
+
+[Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009](http://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
